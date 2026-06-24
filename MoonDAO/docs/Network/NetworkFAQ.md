@@ -20,7 +20,7 @@ Space Acceleration Network
 ## Citizen FAQs
 
 **What benefits do Citizens receive?**
-Citizens can get [paid for their contributions](https://moondao.com/contribute) towards enabling a long-term human presence on the Moon (or anything else the community feels is valuable), [get hired](https://moondao.com/jobs) directly by teams in the network, [submit proposals](https://moondao.com/submit) to receive funding for their projects, and show up in our [network directory](https://moondao.com/citizens).
+Citizens can get [paid for their contributions](https://moondao.com/contribute) towards enabling a long-term human presence on the Moon (or anything else the community feels is valuable), [get hired](https://moondao.com/jobs) directly by teams in the network, [submit proposals](https://moondao.com/propose) to receive funding for their projects, and show up in our [network directory](https://moondao.com/citizens).
 
 **How do I become a Citizen?**
 Click [here](https://moondao.com/citizen) and follow the steps. See: [[How to Become a Citizen]]
