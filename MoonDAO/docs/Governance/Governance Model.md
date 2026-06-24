@@ -26,7 +26,7 @@ While not explicitly required, we recommend becoming a member and familiarizing 
 Even if you’re not a member, you can pitch an idea or weigh in on other people's ideas in our [Ideation channel](https://discord.com/channels/914720248140279868/1027658256706961509) - there is no formal structure to post, and anyone can share a loose idea for feedback. No pressure. 
 
 **Step 2: Submit a Proposal** 
-When you’re ready to submit a more formal proposal, you can do so [here](https://moondao.com/submit). Most successful submissions have already been discussed in ideation to improve them and get feedback, but you may also submit directly ⁠without a thread in ideation. 
+When you’re ready to submit a more formal proposal, you can do so [here](https://moondao.com/propose). Most successful submissions have already been discussed in ideation to improve them and get feedback, but you may also submit directly ⁠without a thread in ideation. 
 
 **Step 3: Townhall Discussion** 
 **Every Thursday at 3PM Eastern** we discuss proposals in Discord in the [Ground-Control](https://moondao.com/meet) voice channel. Everyone is welcome to listen and participate. We record these meetings as well and you can view previous town halls on our [YouTube channel](https://www.youtube.com/@officialmoondao/streams). 
@@ -54,7 +54,7 @@ For now, the current governance system for MoonDAO works as follows:
 
 ## Proposal Flow
 
-1. Anyone can create a proposal. To begin, create a post in [the ideation channel](https://discord.com/channels/914720248140279868/1027658256706961509) and get feedback on the idea from the community. Once the idea is fully formed, you may formalize the proposal for [submission](https://moondao.com/submit)
+1. Anyone can create a proposal. To begin, create a post in [the ideation channel](https://discord.com/channels/914720248140279868/1027658256706961509) and get feedback on the idea from the community. Once the idea is fully formed, you may formalize the proposal for [submission](https://moondao.com/propose)
 2. The Senate will do due-diligence on the proposal for constitutionality and mission-alignment, if the proposal receives more than 70% approval from the Senate it moves to a vote by all the $vMOONEY holders in the Member House. Seats on the senate can not be bought, the Senate is composed of people that are leading or have lead MoonDAO projects.
 3. The $vMOONEY holders vote on the proposal, if a super majority agree it goes to the treasury for signing.
 4. The Treasury signers execute the proposal’s onchain components (sending funds, or implementing an onchain update to the DAO’s functions).

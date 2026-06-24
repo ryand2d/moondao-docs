@@ -9,7 +9,6 @@ discord: "@mitchie_mitch"
 roles:
   - Project Lead
   - Operations Lead
-  - Delegate
 member_since:
 ---
 **Role**: [[@Executive]], Operations Lead

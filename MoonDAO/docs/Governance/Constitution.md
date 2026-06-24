@@ -114,7 +114,7 @@ Each Quarter, five contributors are elected based on their performance in the pr
 
 ###### Term Limit and Removal
 
-Senators are active until the end of the quarter that they were appointed.
+Senators retain their position for six months from their appointment.
 
 ###### Rights
 
