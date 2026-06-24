@@ -22,7 +22,6 @@ sidebar_position: 7
 
 ## Holder Roles
 - **[[@Voter]]:** Holder of any amount of locked MOONEY. Can vote on MoonDAO proposals.
-- **[[@Delegate]]:** Holder of at least 250,000 $vMOONEY, and can officially submit proposals to the [Senate](Senate.md) on behalf of anyone.
 
 ## Contributor Roles
 - **[@Project Contributor](@Moon%20Settler.md):** Currently working within a MoonDAO project.

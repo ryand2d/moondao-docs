@@ -44,7 +44,7 @@ MoonDAO projects are autonomous units and may be incorporated into separate lega
 
 ## Level 2: Lead a MoonDAO Project
 
-Create a new project or get funding for something you’re already doing by proposing a [MoonDAO project](https://moondao.com/submit). This comes with the added responsibility of being a Senate member and having a seat on the governing body that first reviews new MoonDAO projects before going up for a vote by the Member House.
+Create a new project or get funding for something you’re already doing by proposing a [MoonDAO project](https://moondao.com/propose). Upon successfully completing a project, the Project Lead has the option to join the Senate for six months — the governing body that first reviews new MoonDAO projects before they go up for a vote by the Member House. Senate membership comes after completing a project; it is not automatic upon becoming a Lead.
 
 Leading a MoonDAO project is a larger commitment, you would steward the project from proposal to completion, and be responsible for putting together a core team, reporting back on progress to the DAO on a weekly basis, and completing the objectives of the project on time.
 
